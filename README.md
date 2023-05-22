@@ -32,7 +32,7 @@ confirm_button_x = 3277
 confirm_button_y = 1998</code></pre>
     <li>Make sure MediaMonkey is open and visible on your screen.</li>
     <li>Run the script by entering the following command in your command-line interface:</li>
-    <pre><code>python mediamonkey_automation.py</code></pre>
+    <pre><code>python python "mediamonkey_automation.py"</code></pre>
     <li>Monitor the execution by checking the console output, which provides information about the current actions being performed.</li>
   </ol>
   
