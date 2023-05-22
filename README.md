@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    pre code {
-      background-color: #f0f0f0;
-      padding: 10px;
-    }
-
-    strong {
-      color: #ff0000;
-    }
-  </style>
 </head>
 <body>
   <h1>MediaMonkey Automation Script</h1>
